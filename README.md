@@ -1,1 +1,1 @@
-# Computers-team
+# Computer-team
