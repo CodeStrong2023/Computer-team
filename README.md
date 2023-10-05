@@ -1,8 +1,8 @@
 # Computer-team
 INTEGRANTES: 
 
-Lucas Sarmiento
+Lucas Sarmiento - N° de legajo 10.510
 
-Francisco Redondo 
+Francisco Redondo - N° de legajo 10.492 
 
 Santiago Micieli
