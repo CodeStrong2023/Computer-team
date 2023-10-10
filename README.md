@@ -6,9 +6,7 @@ Lucas Sarmiento - N° de legajo 10.510
 Francisco Redondo - N° de legajo 10.492 
 
 Santiago Micieli
-<div align="center">
-<h1 align="center">"Computer-Team"
-</div>
+
 Technologies:
 <div align="center">
   <br>
