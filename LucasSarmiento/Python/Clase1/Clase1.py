@@ -27,6 +27,11 @@ print(len(nombres)) #es una funcion que nos permite ver la cantidad de elemtnos 
 
 #Agregamos un elemento a nuestra lista
 nombres.append("Marcelo")
+nombres.append([1, 2, 3])
+nombres.append(True)
+nombres.append(10.45)
+nombres.append([4, 5])
+nombres.append(7)
 print(nombres)
 #Se insertó el nombre a lo ultimo
 nombres.insert(1,"Alberto") #Colocamos el nombre en un lugar en especifico, en este caso en el indice 1
