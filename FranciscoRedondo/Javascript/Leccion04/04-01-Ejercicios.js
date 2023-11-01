@@ -72,6 +72,7 @@ console.log("Bienvenido a la estacion de: "+estacion);
 
 
 
+
 //Ampliando el uso de var, let y const
 /*
 Con var puedes reasignar en cualquier momento
