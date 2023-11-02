@@ -1,4 +1,7 @@
 # Computer-team
+
+![aa4f9c18-f67b-477f-82a0-74f678002dc3](https://github.com/CodeStrong2023/Computer-team/assets/118284952/956ab639-664e-4220-8c1c-3f25aaa18f14)
+
 INTEGRANTES: 
 
 Lucas Sarmiento - N° de legajo 10.510
